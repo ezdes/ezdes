@@ -1,7 +1,7 @@
 
  <h1><p align=center>Hi there 👋</p></h1>
 
- <h1><p align=center>⚡ Ermek 🗿 ⚡</p></h1>
+ <h1><p align=center>⚡ Ermek 16y.o ⚡</p></h1>
 
 <!--
 **ezdes/ezdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
