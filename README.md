@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-  ## Ermek
-  ## 16 y.o
+  ## ⚡Ermek 16 y.o⚡
 
 <!--
 **ezdes/ezdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
