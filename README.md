@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div>
+<br>
+ <div align=center>
  <img src=https://64.media.tumblr.com/4d6b90227183900e950c5ba0897bfc0b/tumblr_or8wdqkLcj1qbq5g5o4_r1_540.gifv>
  <div/>
