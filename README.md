@@ -1,5 +1,5 @@
 
- <h1><p align=center>Hi there 👋</p></h1>
+ <h1><p align=center>Hi there 👋🗿</p></h1>
 
  <h1><p align=center>⚡Ermek, 16 y.o⚡</p></h1>
 
